@@ -8,6 +8,7 @@ Repositório atendendo a tarefa do Mestrado UFJF em Ciência da Computação.
 " Criação de imagem panorâmica utilizando algoritmos SIFT (Scale Invariant Feature Transform) e RANSAC (Random Sample Consenssus) "
 
 - Imagens utilizadas " imagem1.jpg e imagem2.jpg ".
+- Possui também um arquivo em PDF chamado ' Relatório Técnico ' informando todo o processo.
 
 -----
 Informações sobre a atividade:
