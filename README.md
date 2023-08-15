@@ -12,8 +12,8 @@ Repositório atendendo a tarefa do Mestrado UFJF em Ciência da Computação.
 -----
 Informações sobre a atividade:
 
-- Left img size ( 397 * 529 )
-- Right img size ( 397 * 529 )
+- Left img size ( 397 * 529 ) - imagem1
+- Right img size ( 397 * 529 ) - imagem2
 - Step1 - Extract the keypoints and features by SIFT detector and descriptor...
 - Step2 - Extract the match point with threshold (David Lowe’s ratio test)...
 - Pontos verdes = inliers
