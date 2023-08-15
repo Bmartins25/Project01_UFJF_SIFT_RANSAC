@@ -20,3 +20,7 @@ Informações sobre a atividade:
 - Step3 - Fit the best homography model with RANSAC algorithm...
 - The Number of Maximum Inlier: 97
 - Step4 - Warp image to create panoramic image...
+
+------
+
+![image](https://github.com/Bmartins25/Projeto01_UFJF_SIFT_RANSAC/assets/42076192/4c761ab0-c8fc-4293-9b3a-1b5792da1d8b)
