@@ -1,5 +1,6 @@
 # Projeto01_UFJF_SIFT_RANSAC
-Repositório atendendo a tarefa do Mestrado UFJF em Ciência da Computação.
+Repositório atendendo a tarefa do Mestrado UFJF em Ciência da Computação. 
+(Linha de Pesquisa: Deep Learning)
 
 ----
 
